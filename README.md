@@ -10,7 +10,7 @@ The Summary DataFrame makes it easy for viewers to see the differences between t
 
 | % of Total Rides | % of Total Drivers  | % of Total Fares  |
 | :-----: | :-: | :-: |
-| ![Fig5.png](analysis/fig5.png) | ![Fig5.png](analysis/fig6.png) | ![Fig5.png](analysis/fig7.png) |
+| ![Fig5.png](../analysis/fig5.png) | ![Fig6.png](../analysis/fig6.png) | ![Fig7.png](../analysis/fig7.png) |
 
 ### Differences by City Type
 

@@ -12,6 +12,7 @@ The Summary DataFrame makes it easy for viewers to see the differences between t
 | :-----: | :-: | :-: |
 | ![Fig5.png](analysis/Fig5.png) | ![Fig6.png](analysis/Fig6.png) | ![Fig7.png](analysis/Fig7.png) |
 
+
 ### Differences by City Type
 
 The 
